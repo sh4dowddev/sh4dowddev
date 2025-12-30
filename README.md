@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sh4dow</h1>
-<h3 align="center">Frontend Developer from Brazil 🇧🇷</h3>
+<h3 align="center">Fullstack Developer from Brazil 🇧🇷</h3>
 
 <p align="center">
-  🚀 Passionate about creating modern, performant and user-friendly web applications
+  🚀 Passionate about building complete solutions — from frontend interfaces to backend logic
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ## 👨‍💻 About me
 
 - 🔭 Currently working at **[Wave Resources](https://waveresources.com.br)**
-- 🎯 Focused on **Frontend Development**
-- 💡 Always learning new technologies and improving my skills
-- 🎮 Interested in game-related scripting and performance optimization
+- 🧠 Fullstack Developer with experience in both **Frontend** and **Backend**
+- ⚡ Focused on performance, clean code and scalability
+- 🎮 Interested in game-related systems, scripting and optimizations
 
 ---
 
@@ -35,5 +35,5 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh4dowDeveloperMTA&show_icons=true&theme=dark" alt="Sh4dow GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sh4dowDeveloperMTA&show_icons=true&theme=dark" />
 </p>
