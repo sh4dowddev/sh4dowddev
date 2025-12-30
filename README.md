@@ -29,7 +29,7 @@
 ## 📫 Contact me
 
 - 💬 **Discord:** `iamsh4dow` or `sh4dow#0666`
-- 🌐 **Website:** [waveresources.com.br](https://waveresources.com.br)
+- 🌐 **Discord Profile:** [Profile](https://discord.com/users/906563227113115749)
 
 ---
 
