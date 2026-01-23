@@ -35,6 +35,8 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh4dowDeveloperMTA&theme=dark" />
+<p align="left">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh4dowddev&label=Profile%20views&color=0e75b6&style=flat" alt="sh4dowddev" /> </p>
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh4dowddev&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh4dowddev&theme=github_dark)
 </p>
